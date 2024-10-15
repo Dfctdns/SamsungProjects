@@ -2,15 +2,12 @@ import java.awt.Color
 
 fun main(){
 
-/*
+
     val car:Car = Car() // название класса()/ конструктор
     car.turnOn()
-    car.colorChanged()
-    car.length = 200
     val cabriolet:Cabriolet = Cabriolet()
     cabriolet.turnOn()
     cabriolet.openRoof()
-*/
 /*    val kangaroo:Kangaroo = Kangaroo()
     val snake:Snake = Snake()
     val elephant:Elephant = Elephant()
